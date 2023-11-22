@@ -1,4 +1,4 @@
-# JavaScript Project
+# React Native Project
 
 ## Description
 
